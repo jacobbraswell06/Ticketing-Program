@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class program {
+public class Program {
 
     static String[] board = new String[50];
     static int boardLength = 0;
